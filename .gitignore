@@ -1,3 +1,15 @@
+# Cmake
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+#Visual studio
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
 # Compiled Object files
 *.slo
 *.lo
